@@ -1,11 +1,9 @@
 # pintos-projects
 ST-CS130 Computer System: PintOS
 
-Author: 
-- [nyovelt](https://github.com/Nyovelt)
+Authors:
 - [Zhang Yi-ning](https://github.com/yining765)
-
-I will write a small report to generize the PintOS project later on my blog. Should you have any questions, contact me.
+- [nyovelt](https://github.com/Nyovelt)
 
 **Remind of Academic Honesty**
 
